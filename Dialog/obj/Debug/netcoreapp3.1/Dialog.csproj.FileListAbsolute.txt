@@ -1,0 +1,15 @@
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\bin\Debug\netcoreapp3.1\Dialog.exe
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\bin\Debug\netcoreapp3.1\Dialog.deps.json
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\bin\Debug\netcoreapp3.1\Dialog.runtimeconfig.json
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\bin\Debug\netcoreapp3.1\Dialog.runtimeconfig.dev.json
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\bin\Debug\netcoreapp3.1\Dialog.dll
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\bin\Debug\netcoreapp3.1\Dialog.pdb
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\obj\Debug\netcoreapp3.1\Dialog.csprojAssemblyReference.cache
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\obj\Debug\netcoreapp3.1\Dialog.AssemblyInfoInputs.cache
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\obj\Debug\netcoreapp3.1\Dialog.AssemblyInfo.cs
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\obj\Debug\netcoreapp3.1\Dialog.dll
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\obj\Debug\netcoreapp3.1\Dialog.pdb
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\obj\Debug\netcoreapp3.1\Dialog.genruntimeconfig.cache
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\obj\Debug\netcoreapp3.1\Dialog.csproj.CoreCompileInputs.cache
+D:\NaUKMA\IntroductionToAI\Labs\First\Dialog\Dialog\obj\Debug\netcoreapp3.1\Dialog.csproj.CopyComplete

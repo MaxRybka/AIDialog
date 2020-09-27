@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x9TE/Hby9uzIt0jLovbj+0cEQQCFrtHHDeaSuorcE2itPs/0EQgRugk4dP5NWZrptp92At75bWjs9b/a9i7+YQ==",
+  "success": true,
+  "projectFilePath": "D:\\NaUKMA\\IntroductionToAI\\Labs\\First\\Dialog\\Dialog\\Dialog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

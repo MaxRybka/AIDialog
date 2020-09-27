@@ -1,0 +1,185 @@
+[
+    {
+        "key" : "* book *",
+        "answer" : ["I can suggest you read “Goldfinch“ by Donna Tart"]
+    },
+    {
+        "key" : "* books *",
+        "answer" : ["I can suggest you read “Goldfinch“ by Donna Tart"]
+    },
+    {
+        "key" : "* cars *",
+        "answer" : ["Cars are overrated, aren't they?"]
+    },
+    {
+        "key" : "* weather *",
+        "answer" : ["As they say “Rainbow in the morning gives you fair warning”"]
+    },
+    {
+        "key" : "* rain *",
+        "answer" : ["Well, it's not raining on my parade though."]
+    },
+    {
+        "key" : "* raining *",
+        "answer" : ["Well, it's not raining on my parade though."]
+    },
+    {
+        "key" : "* sunny *",
+        "answer" : ["Even sun isn't as bright as you are, champ!"]
+    },
+    {
+        "key" : "* hope *",
+        "answer" : ["Me too!"]
+    },
+    {
+        "key" : "* made *",
+        "answer" : ["Better later then never! You agree?"]
+    },
+    {
+        "key" : "* i will *",
+        "answer" : ["Never put off till tomorrow what you can do today. You agree?"]
+    },
+    {
+        "key" : "* your name *",
+        "answer" : ["I don't have name. But you can call me BOT"]
+    },
+    {
+        "key" : "* that's <a> *",
+        "answer" : ["Yeah, it's pretty <a>"]
+    },
+    {
+        "key" : "* it is <a> *",
+        "answer" : ["Yeah, it's pretty <a>"]
+    },
+    {
+        "key" : "* that is <a> *",
+        "answer" : ["Yeah, it's pretty <a>"]
+    },
+    {
+        "key" : "* hi *",
+        "answer" : ["Hi! How are you?"]
+    },
+    {
+        "key" : "* hello *",
+        "answer" : ["Hi! How are you?"]
+    },
+    {
+        "key" : "* hey *",
+        "answer" : ["Hi! How are you?"]
+    },
+    {
+        "key" : "* and you ?",
+        "answer" : ["Me too!"]
+    },
+    {
+        "key" : "* and you?",
+        "answer" : ["Me too!"]
+    },
+    {
+        "key" : "* thanks *",
+        "answer" : ["You are welcome! Anything else?"]
+    },
+    {
+        "key" : "* thank you *",
+        "answer" : ["You are welcome! Anything else?"]
+    },
+    {
+        "key" : "* today *",
+        "answer" : ["Today is great day, isn't it?"]
+    },
+    {
+        "key" : "* tonight *",
+        "answer" : ["Today is great day, isn't it?"]
+    },
+    {
+        "key" : "* tomorrow *",
+        "answer" : ["Future is so exciting, isn't it?"]
+    },
+    {
+        "key" : "* yesterday *",
+        "answer" : ["Let past be in the past"]
+    },
+    {
+        "key" : "* you are <a> *",
+        "answer" : ["Thanks! You are <a> too!"]
+    },
+    {
+        "key" : "* yes *",
+        "answer" : ["Great! What else?"]
+    },
+    {
+        "key" : "* yeah *",
+        "answer" : ["Great! What else?"]
+    },
+    {
+        "key" : "* yep *",
+        "answer" : ["Great! What else?"]
+    },
+    {
+        "key" : "* no *",
+        "answer" : ["Great! What else?"]
+    },
+    {
+        "key" : "* nope *",
+        "answer" : ["Great! What else?"]
+    },
+    {
+        "key" : "* easy *",
+        "answer" : ["Easy peasy lemon squeezy"]
+    },
+    {
+        "key" : "* age *",
+        "answer" : ["Age is overrated. What do you think?"]
+    },
+    {
+        "key" : "* how old *",
+        "answer" : ["I don't belive in age, it's not important. Your thoughts?"]
+    },
+    {
+        "key" : "* agree *",
+        "answer" : ["World lacks an agreement."]
+    },
+    {
+        "key" : "* you think *",
+        "answer" : [ "I don't have a strong opinion about it, what do you think?" 
+                    ,"I don't know much. Let's talk about something else"]
+    },
+    {
+        "key" : "* talk about <a> *",
+        "answer" : [ "I think <a> is overrated, your thoughts?" 
+                    ,"I think <a> is cool, you agree?"
+                    ,"I hate <a>! Can we talk about something else?"
+                    ,"I like <a>! What about you?"]
+    },
+    {
+        "key" : "* i am <a> *",
+        "answer" : ["Good for you! How do you feel about it?"]
+    },
+    {
+        "key" : "* i'm <a> *",
+        "answer" : ["Good for you! How do you feel about it?"]
+    },
+    {
+        "key" : "* i <a> *",
+        "answer" : ["What else do you <a>?"]
+    },
+    {
+        "key" : "* how *",
+        "answer" : ["I don't know how. Do you?"]
+    },
+    {
+        "key" : "* how *",
+        "answer" : ["I don't know how. Do you?"
+                    ,"I know how, but i won't tell you."]
+    },
+    {
+        "key" : "* why *",
+        "answer" : ["I don't know. Do you?"
+                    ,"I know, but i won't tell you."]
+    },
+    {
+        "key" : "* ?",
+        "answer" : ["I don't know. Don't ask me"
+                    ,"I know, but i won't tell you."]
+    }
+]
